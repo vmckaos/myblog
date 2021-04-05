@@ -26,8 +26,8 @@ Kami adalah vendor kaos jogja yang sudah berpengalaman memenuhi kebutuhan banyak
 Dengan kualitas premium kami bisa menawarkan kaos dengan harga pabrik
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 
+github_username: masyarko 
 
 # Build settings
 theme: jekyll-theme-cayman
